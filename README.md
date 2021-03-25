@@ -2,7 +2,7 @@
 
 - Studying Software Engineering @ SAMK.fi
 - On a mission to become a full stack code wizard 🧙
-- Also interested in: cyber security, engineering and producing music 
+- Also interested in: cyber security, engineering, philosophy and producing music 
 
 <!--
 **zvvlx/zvvlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
