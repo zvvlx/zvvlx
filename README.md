@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Studying Software Engineering @ SAMK.fi
-- On a mission to become a full stack code wizard 🧙
+- On a mission to become a code wizard 🧙
 - Also interested in: cyber security, engineering, philosophy and producing music 
 
 <!--
