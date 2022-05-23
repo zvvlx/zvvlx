@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - Studying Software Engineering @ SAMK.fi
-- Currently working as a developer, mostly backend
-- Also interested in: cyber security, engineering, philosophy and producing music 
+- Currently working as a Software Developer @ Haltu
+- Also interested in: cyber security, engineering, philosophy, gaming and producing music 
 
 <!--
 **zvvlx/zvvlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
