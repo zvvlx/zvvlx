@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Studying Software Engineering @ SAMK.fi
 - Currently working as a Software Developer @ Haltu
+- Bachelor's degree in Software Engineering
 - Also interested in: cyber security, engineering, philosophy, gaming and producing music 
 
 <!--
