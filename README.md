@@ -4,3 +4,5 @@
 - Bachelor's degree in Software Engineering
 - Also interested in: bodybuilding, all sorts of engineering, psychology, movies and all things related to music
 - I save my green squares for the ones paying the bills :) 
+
+(all the fun stuff is in the private repos 🪄)
